@@ -1,13 +1,11 @@
-using System;
+import java.util.ArrayList;
 public class Local{
 	private int local_id;
 	private string local_direccion;
-	private List<Vendedor> local_vendedores;
+	private ArrayList<Vendedor> local_vendedores;
 
 	public Local(int local_id, string local_direccion){
-		this.local_id = local_id;
-		this.local_direccion = local_direccion;
-		
+
 	}
 
 	public int local_id{
