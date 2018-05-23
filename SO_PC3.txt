@@ -1,0 +1,13 @@
+Pregunta 4:
+External_Memory_Frangmentation = 1-(Largest_BLock_Of_Free_Memory / Total_Free_Memory), fragmentation of 0% means that "toda la memoria está ocupada", fragmentation is 90% (for example) when "existen muchos bloques pequeños libres (tamaño = max 1/10 total de memoria libre)"
+
+Pregunta 5:
+
+Process No.     Process Size    Block no.
+    1           212             2
+    2           417             5
+    3           112             2
+    4           426             Not Allocated
+
+Pregunta 7:
+
